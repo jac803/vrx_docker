@@ -1,0 +1,8 @@
+prefix=/work/ip021655/jacob_vrx/devel
+
+Name: usv_msgs
+Description: Description of usv_msgs
+Version: 0.0.1
+Cflags: -I/work/ip021655/jacob_vrx/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_generation message_runtime std_msgs

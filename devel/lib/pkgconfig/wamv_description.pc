@@ -1,0 +1,8 @@
+prefix=/work/ip021655/jacob_vrx/devel
+
+Name: wamv_description
+Description: Description of wamv_description
+Version: 1.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: xacro
